@@ -3,14 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package paquete1;
+package paquete2;
+import paquete1.*;
 import java.util.Scanner;
 
 /**
  *
  * @author reroes
  */
-public class Ejemplo05 {
+public class Ejemplo051 {
 
     /**
      * @param args the command line arguments

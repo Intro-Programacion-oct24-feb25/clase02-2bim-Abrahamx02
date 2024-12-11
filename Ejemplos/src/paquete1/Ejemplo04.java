@@ -18,8 +18,8 @@ public class Ejemplo04 {
         // Declarar y generar arreglos en Java
         
         // arreglo de tipo entero
-        // int[] arreglo1 = new int[5];
-        int[] arreglo1 = {1000, 1, 2, 2000, 300};
+         int[] arreglo1 = new int[5];
+//        int[] arreglo1 = {1000, 1, 2, 2000, 300};
         // System.out.println(arreglo1.length);
         // arreglo1[2] = 1000;
         for (int i = 0; i < arreglo1.length; i++) {
